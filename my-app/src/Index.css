@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3 {
+  font-weight: normal;
+}
+
+img {
+  display: black;
+  max-width: 100%;
+}
+
+a {
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=Index.css.map */
